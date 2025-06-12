@@ -1,0 +1,1096 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DoAn\\Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\area\\admin\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\area\\admin\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\dto\\roles\\createrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\roles\\createrolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\data\\migrations\\createuseraddressroletables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\data\\migrations\\createuseraddressroletables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\common\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\common\\mapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\dto\\roles\\getrolesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\roles\\getrolesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\data\\domain\\users\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\data\\domain\\users\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\dto\\roles\\updaterolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\roles\\updaterolerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\services\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\services\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\services\\users\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\services\\users\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\common\\pagelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\common\\pagelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\common\\ipagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\common\\ipagedlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\dto\\roles\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\roles\\roledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\dto\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\users\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\dto\\users\\getusersrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\users\\getusersrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\common\\sortablefields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\common\\sortablefields.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\data\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\data\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\data\\domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\data\\domain\\users\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\controllers\\identitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\identitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\services\\identity\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\services\\identity\\identityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\services\\identity\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\services\\identity\\iidentityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\common\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\common\\publiccontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\common\\enumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\common\\enumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\common\\customclaimtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\common\\customclaimtypes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\common\\asynciqueryableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\common\\asynciqueryableextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\common\\apperrortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\common\\apperrortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\common\\apperrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\common\\apperrorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\common\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\common\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\common\\utils\\hasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\common\\utils\\hasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\common\\fakedata\\fakedataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\common\\fakedata\\fakedataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\data\\domain\\users\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\data\\domain\\users\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\dto\\users\\updateaddressrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\users\\updateaddressrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\dto\\users\\bulkoperationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\users\\bulkoperationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\dto\\users\\bulksetuseractiverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\users\\bulksetuseractiverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\dto\\users\\createaddressrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\users\\createaddressrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\dto\\users\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\users\\createuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\data\\domain\\users\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\data\\domain\\users\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\data\\entityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\data\\entityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\data\\migrations\\dropalltables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\data\\migrations\\dropalltables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\data\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\dto\\users\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\users\\addressdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\dto\\identity\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\identity\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\data\\appdataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\data\\appdataconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\data\\domain\\users\\userdefaults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\data\\domain\\users\\userdefaults.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\data\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\data\\ientity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\data\\isoftdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\data\\isoftdelete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|c:\\users\\my pc\\.nuget\\packages\\linq2db.sqlserver\\5.4.1\\contentfiles\\any\\any\\linqtodb.templates\\linqtodb.sqlserver.ttinclude||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|c:\\users\\my pc\\.nuget\\packages\\linq2db.sqlserver\\5.4.1\\contentfiles\\any\\any\\linqtodb.templates\\linqtodb.sqlserver.sqltypes.tools.ttinclude||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|c:\\users\\my pc\\.nuget\\packages\\linq2db.sqlserver\\5.4.1\\contentfiles\\any\\any\\linqtodb.templates\\humanizer.ttinclude||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|c:\\users\\my pc\\.nuget\\packages\\linq2db.sqlserver\\5.4.1\\contentfiles\\any\\any\\linqtodb.templates\\editableobject.ttinclude||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|c:\\users\\my pc\\.nuget\\packages\\linq2db.sqlserver\\5.4.1\\contentfiles\\any\\any\\linqtodb.templates\\datamodel.ttinclude||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|c:\\users\\my pc\\.nuget\\packages\\linq2db.sqlserver\\5.4.1\\contentfiles\\any\\any\\linqtodb.templates\\dataannotations.ttinclude||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|c:\\users\\my pc\\.nuget\\packages\\linq2db.sqlserver\\5.4.1\\contentfiles\\any\\any\\linqtodb.templates\\copyme.sqlserver.tt.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\data\\domain\\users\\enum\\addresstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\data\\domain\\users\\enum\\addresstype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\dto\\users\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\users\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\dto\\users\\bulkdeleteuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\users\\bulkdeleteuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\data\\domain\\users\\enum\\userregisterresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\data\\domain\\users\\enum\\userregisterresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\data\\domain\\users\\enum\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\data\\domain\\users\\enum\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\data\\domain\\users\\enum\\deleteuserresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\data\\domain\\users\\enum\\deleteuserresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\dto\\identity\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\dto\\identity\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\data\\domain\\users\\enum\\userloginresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\data\\domain\\users\\enum\\userloginresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|f:\\doan\\backend\\backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{ACA16FAA-100D-446D-B6EE-0A5BC7DC4729}|Backend\\Backend.csproj|solutionrelative:backend\\backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DoAn\\Backend\\Backend\\Area\\Admin\\Controller\\UesrController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\Area\\Admin\\Controller\\UesrController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\DoAn\\Backend\\Backend\\Common\\AppErrorResponse .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Backend\\Common\\AppErrorResponse .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Area\\Admin\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "Backend\\Area\\Admin\\Controller\\UserController.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Area\\Admin\\Controller\\UserController.cs*",
+              "RelativeToolTip": "Backend\\Area\\Admin\\Controller\\UserController.cs*",
+              "ViewState": "AgIAAGcBAAAAAAAAAIA5wHEBAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T10:08:56.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetRolesRequest.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\DTO\\Roles\\GetRolesRequest.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\Roles\\GetRolesRequest.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\DTO\\Roles\\GetRolesRequest.cs",
+              "RelativeToolTip": "Backend\\DTO\\Roles\\GetRolesRequest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:04:15.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Common\\Mapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Backend\\Common\\Mapper\\MappingProfile.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Common\\Mapper\\MappingProfile.cs",
+              "RelativeToolTip": "Backend\\Common\\Mapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:08:17.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Role.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Data\\Domain\\Users\\Role.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\Domain\\Users\\Role.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Data\\Domain\\Users\\Role.cs",
+              "RelativeToolTip": "Backend\\Data\\Domain\\Users\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T02:23:04.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreateUserAddressRoleTables.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Data\\Migrations\\CreateUserAddressRoleTables.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\Migrations\\CreateUserAddressRoleTables.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Data\\Migrations\\CreateUserAddressRoleTables.cs",
+              "RelativeToolTip": "Backend\\Data\\Migrations\\CreateUserAddressRoleTables.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwEoAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T05:40:55.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateRoleRequest.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\DTO\\Roles\\CreateRoleRequest.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\Roles\\CreateRoleRequest.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\DTO\\Roles\\CreateRoleRequest.cs",
+              "RelativeToolTip": "Backend\\DTO\\Roles\\CreateRoleRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T05:58:24.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateRoleRequest.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\DTO\\Roles\\UpdateRoleRequest.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\Roles\\UpdateRoleRequest.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\DTO\\Roles\\UpdateRoleRequest.cs",
+              "RelativeToolTip": "Backend\\DTO\\Roles\\UpdateRoleRequest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T06:01:34.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Services\\Users\\IUserService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\Users\\IUserService.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Services\\Users\\IUserService.cs",
+              "RelativeToolTip": "Backend\\Services\\Users\\IUserService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:58:05.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IPagedList.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Common\\IPagedList.cs",
+              "RelativeDocumentMoniker": "Backend\\Common\\IPagedList.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Common\\IPagedList.cs",
+              "RelativeToolTip": "Backend\\Common\\IPagedList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:11:16.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PageList.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Common\\PageList.cs",
+              "RelativeDocumentMoniker": "Backend\\Common\\PageList.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Common\\PageList.cs",
+              "RelativeToolTip": "Backend\\Common\\PageList.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAMwAwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T15:11:41.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RoleDto.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\DTO\\Roles\\RoleDto.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\Roles\\RoleDto.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\DTO\\Roles\\RoleDto.cs",
+              "RelativeToolTip": "Backend\\DTO\\Roles\\RoleDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T02:12:47.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Services\\Users\\UserService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\Users\\UserService.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Services\\Users\\UserService.cs",
+              "RelativeToolTip": "Backend\\Services\\Users\\UserService.cs",
+              "ViewState": "AgIAAJ4BAAAAAAAAAAAkwL0BAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:58:21.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SortableFields.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Common\\SortableFields.cs",
+              "RelativeDocumentMoniker": "Backend\\Common\\SortableFields.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Common\\SortableFields.cs",
+              "RelativeToolTip": "Backend\\Common\\SortableFields.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:46:57.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Data\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\BaseEntity.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Data\\BaseEntity.cs",
+              "RelativeToolTip": "Backend\\Data\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:34:51.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetUsersRequest.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\DTO\\Users\\GetUsersRequest.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\Users\\GetUsersRequest.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\DTO\\Users\\GetUsersRequest.cs",
+              "RelativeToolTip": "Backend\\DTO\\Users\\GetUsersRequest.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB8AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:23:46.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\DTO\\Users\\UserDto.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\Users\\UserDto.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\DTO\\Users\\UserDto.cs",
+              "RelativeToolTip": "Backend\\DTO\\Users\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:25:38.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Data\\Domain\\Users\\User.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\Domain\\Users\\User.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Data\\Domain\\Users\\User.cs",
+              "RelativeToolTip": "Backend\\Data\\Domain\\Users\\User.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T07:43:09.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IdentityController.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Controllers\\IdentityController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\IdentityController.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Controllers\\IdentityController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\IdentityController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:54:02.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IdentityService.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Services\\Identity\\IdentityService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\Identity\\IdentityService.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Services\\Identity\\IdentityService.cs",
+              "RelativeToolTip": "Backend\\Services\\Identity\\IdentityService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T07:37:54.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IIdentityService.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Services\\Identity\\IIdentityService.cs",
+              "RelativeDocumentMoniker": "Backend\\Services\\Identity\\IIdentityService.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Services\\Identity\\IIdentityService.cs",
+              "RelativeToolTip": "Backend\\Services\\Identity\\IIdentityService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T07:37:30.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Backend\\Controllers\\UserController.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Backend\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:52:36.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PublicController.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Common\\PublicController.cs",
+              "RelativeDocumentMoniker": "Backend\\Common\\PublicController.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Common\\PublicController.cs",
+              "RelativeToolTip": "Backend\\Common\\PublicController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:54:44.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EnumHelper.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Common\\EnumHelper.cs",
+              "RelativeDocumentMoniker": "Backend\\Common\\EnumHelper.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Common\\EnumHelper.cs",
+              "RelativeToolTip": "Backend\\Common\\EnumHelper.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAswB4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T02:19:49.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CustomClaimTypes.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Common\\CustomClaimTypes.cs",
+              "RelativeDocumentMoniker": "Backend\\Common\\CustomClaimTypes.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Common\\CustomClaimTypes.cs",
+              "RelativeToolTip": "Backend\\Common\\CustomClaimTypes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:32:19.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AsyncIQueryableExtensions.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Common\\AsyncIQueryableExtensions.cs",
+              "RelativeDocumentMoniker": "Backend\\Common\\AsyncIQueryableExtensions.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Common\\AsyncIQueryableExtensions.cs",
+              "RelativeToolTip": "Backend\\Common\\AsyncIQueryableExtensions.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T14:43:21.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppErrorType.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Common\\AppErrorType.cs",
+              "RelativeDocumentMoniker": "Backend\\Common\\AppErrorType.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Common\\AppErrorType.cs",
+              "RelativeToolTip": "Backend\\Common\\AppErrorType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T07:03:52.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppErrorResponse.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Common\\AppErrorResponse.cs",
+              "RelativeDocumentMoniker": "Backend\\Common\\AppErrorResponse.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Common\\AppErrorResponse.cs",
+              "RelativeToolTip": "Backend\\Common\\AppErrorResponse.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAswB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T07:04:53.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Common\\AdminController.cs",
+              "RelativeDocumentMoniker": "Backend\\Common\\AdminController.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Common\\AdminController.cs",
+              "RelativeToolTip": "Backend\\Common\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:52:37.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Hasher.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Common\\Utils\\Hasher.cs",
+              "RelativeDocumentMoniker": "Backend\\Common\\Utils\\Hasher.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Common\\Utils\\Hasher.cs",
+              "RelativeToolTip": "Backend\\Common\\Utils\\Hasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T06:13:30.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FakeDataSeeder.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Common\\FakeData\\FakeDataSeeder.cs",
+              "RelativeDocumentMoniker": "Backend\\Common\\FakeData\\FakeDataSeeder.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Common\\FakeData\\FakeDataSeeder.cs",
+              "RelativeToolTip": "Backend\\Common\\FakeData\\FakeDataSeeder.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAASwA4AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:12:43.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Address.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Data\\Domain\\Users\\Address.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\Domain\\Users\\Address.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Data\\Domain\\Users\\Address.cs",
+              "RelativeToolTip": "Backend\\Data\\Domain\\Users\\Address.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAIwCwAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:25:50.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UpdateAddressRequest.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\DTO\\Users\\UpdateAddressRequest.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\Users\\UpdateAddressRequest.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\DTO\\Users\\UpdateAddressRequest.cs",
+              "RelativeToolTip": "Backend\\DTO\\Users\\UpdateAddressRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T01:42:16.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "BulkOperationResult.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\DTO\\Users\\BulkOperationResult.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\Users\\BulkOperationResult.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\DTO\\Users\\BulkOperationResult.cs",
+              "RelativeToolTip": "Backend\\DTO\\Users\\BulkOperationResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:23:43.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BulkSetUserActiveRequest.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\DTO\\Users\\BulkSetUserActiveRequest.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\Users\\BulkSetUserActiveRequest.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\DTO\\Users\\BulkSetUserActiveRequest.cs",
+              "RelativeToolTip": "Backend\\DTO\\Users\\BulkSetUserActiveRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T15:22:31.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CreateAddressRequest.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\DTO\\Users\\CreateAddressRequest.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\Users\\CreateAddressRequest.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\DTO\\Users\\CreateAddressRequest.cs",
+              "RelativeToolTip": "Backend\\DTO\\Users\\CreateAddressRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T09:45:21.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreateUserRequest.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\DTO\\Users\\CreateUserRequest.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\Users\\CreateUserRequest.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\DTO\\Users\\CreateUserRequest.cs",
+              "RelativeToolTip": "Backend\\DTO\\Users\\CreateUserRequest.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAmwD0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T07:23:00.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Data\\Domain\\Users\\UserRole.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\Domain\\Users\\UserRole.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Data\\Domain\\Users\\UserRole.cs",
+              "RelativeToolTip": "Backend\\Data\\Domain\\Users\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T06:03:53.029Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Program.cs",
+              "RelativeDocumentMoniker": "Backend\\Program.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Program.cs",
+              "RelativeToolTip": "Backend\\Program.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAwwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T01:31:48.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EntityRepository.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Data\\EntityRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\EntityRepository.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Data\\EntityRepository.cs",
+              "RelativeToolTip": "Backend\\Data\\EntityRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIA1wBAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:41:15.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DropAllTables.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Data\\Migrations\\DropAllTables.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\Migrations\\DropAllTables.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Data\\Migrations\\DropAllTables.cs",
+              "RelativeToolTip": "Backend\\Data\\Migrations\\DropAllTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T06:52:10.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Data\\IRepository.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\IRepository.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Data\\IRepository.cs",
+              "RelativeToolTip": "Backend\\Data\\IRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAWwA8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:34:32.685Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "AddressDto.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\DTO\\Users\\AddressDto.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\Users\\AddressDto.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\DTO\\Users\\AddressDto.cs",
+              "RelativeToolTip": "Backend\\DTO\\Users\\AddressDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAIAzwBcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-31T10:38:21.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\DTO\\Identity\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\Identity\\RegisterRequest.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\DTO\\Identity\\RegisterRequest.cs",
+              "RelativeToolTip": "Backend\\DTO\\Identity\\RegisterRequest.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAASwBQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:39:22.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AppDataConnection.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Data\\AppDataConnection.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\AppDataConnection.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Data\\AppDataConnection.cs",
+              "RelativeToolTip": "Backend\\Data\\AppDataConnection.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAYwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T14:57:32.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserDefaults.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Data\\Domain\\Users\\UserDefaults.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\Domain\\Users\\UserDefaults.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Data\\Domain\\Users\\UserDefaults.cs",
+              "RelativeToolTip": "Backend\\Data\\Domain\\Users\\UserDefaults.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T08:51:48.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IEntity.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Data\\IEntity.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\IEntity.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Data\\IEntity.cs",
+              "RelativeToolTip": "Backend\\Data\\IEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T07:43:22.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ISoftDelete.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Data\\ISoftDelete.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\ISoftDelete.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Data\\ISoftDelete.cs",
+              "RelativeToolTip": "Backend\\Data\\ISoftDelete.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T05:24:05.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Backend.csproj",
+              "DocumentMoniker": "F:\\DoAn\\backend\\Backend\\Backend.csproj",
+              "RelativeDocumentMoniker": "Backend\\Backend.csproj",
+              "ToolTip": "F:\\DoAn\\backend\\Backend\\Backend.csproj",
+              "RelativeToolTip": "Backend\\Backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-26T01:32:33.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "LinqToDB.SqlServer.ttinclude",
+              "DocumentMoniker": "C:\\Users\\My PC\\.nuget\\packages\\linq2db.sqlserver\\5.4.1\\contentFiles\\any\\any\\LinqToDB.Templates\\LinqToDB.SqlServer.ttinclude",
+              "ToolTip": "C:\\Users\\My PC\\.nuget\\packages\\linq2db.sqlserver\\5.4.1\\contentFiles\\any\\any\\LinqToDB.Templates\\LinqToDB.SqlServer.ttinclude [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-08T15:48:49.492Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "LinqToDB.SqlServer.SqlTypes.Tools.ttinclude",
+              "DocumentMoniker": "C:\\Users\\My PC\\.nuget\\packages\\linq2db.sqlserver\\5.4.1\\contentFiles\\any\\any\\LinqToDB.Templates\\LinqToDB.SqlServer.SqlTypes.Tools.ttinclude",
+              "ToolTip": "C:\\Users\\My PC\\.nuget\\packages\\linq2db.sqlserver\\5.4.1\\contentFiles\\any\\any\\LinqToDB.Templates\\LinqToDB.SqlServer.SqlTypes.Tools.ttinclude [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-08T15:48:48.767Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Humanizer.ttinclude",
+              "DocumentMoniker": "C:\\Users\\My PC\\.nuget\\packages\\linq2db.sqlserver\\5.4.1\\contentFiles\\any\\any\\LinqToDB.Templates\\Humanizer.ttinclude",
+              "ToolTip": "C:\\Users\\My PC\\.nuget\\packages\\linq2db.sqlserver\\5.4.1\\contentFiles\\any\\any\\LinqToDB.Templates\\Humanizer.ttinclude [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-08T15:48:48.095Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "EditableObject.ttinclude",
+              "DocumentMoniker": "C:\\Users\\My PC\\.nuget\\packages\\linq2db.sqlserver\\5.4.1\\contentFiles\\any\\any\\LinqToDB.Templates\\EditableObject.ttinclude",
+              "ToolTip": "C:\\Users\\My PC\\.nuget\\packages\\linq2db.sqlserver\\5.4.1\\contentFiles\\any\\any\\LinqToDB.Templates\\EditableObject.ttinclude [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-08T15:48:46.995Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "DataModel.ttinclude",
+              "DocumentMoniker": "C:\\Users\\My PC\\.nuget\\packages\\linq2db.sqlserver\\5.4.1\\contentFiles\\any\\any\\LinqToDB.Templates\\DataModel.ttinclude",
+              "ToolTip": "C:\\Users\\My PC\\.nuget\\packages\\linq2db.sqlserver\\5.4.1\\contentFiles\\any\\any\\LinqToDB.Templates\\DataModel.ttinclude [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-08T15:48:39.967Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "DataAnnotations.ttinclude",
+              "DocumentMoniker": "C:\\Users\\My PC\\.nuget\\packages\\linq2db.sqlserver\\5.4.1\\contentFiles\\any\\any\\LinqToDB.Templates\\DataAnnotations.ttinclude",
+              "ToolTip": "C:\\Users\\My PC\\.nuget\\packages\\linq2db.sqlserver\\5.4.1\\contentFiles\\any\\any\\LinqToDB.Templates\\DataAnnotations.ttinclude [Read Only]",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-08T15:48:30.746Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "CopyMe.SqlServer.tt.txt",
+              "DocumentMoniker": "C:\\Users\\My PC\\.nuget\\packages\\linq2db.sqlserver\\5.4.1\\contentFiles\\any\\any\\LinqToDB.Templates\\CopyMe.SqlServer.tt.txt",
+              "ToolTip": "C:\\Users\\My PC\\.nuget\\packages\\linq2db.sqlserver\\5.4.1\\contentFiles\\any\\any\\LinqToDB.Templates\\CopyMe.SqlServer.tt.txt [Read Only]",
+              "ViewState": "AgIAABcAAAAAAAAAAEBlwAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-08T15:48:19.333Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AddressType.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Data\\Domain\\Users\\Enum\\AddressType.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\Domain\\Users\\Enum\\AddressType.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Data\\Domain\\Users\\Enum\\AddressType.cs",
+              "RelativeToolTip": "Backend\\Data\\Domain\\Users\\Enum\\AddressType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T05:17:14.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "Backend\\appsettings.json",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\appsettings.json",
+              "RelativeToolTip": "Backend\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T07:59:53.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "AppErrorResponse .cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Common\\AppErrorResponse .cs",
+              "RelativeDocumentMoniker": "Backend\\Common\\AppErrorResponse .cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Common\\AppErrorResponse .cs",
+              "RelativeToolTip": "Backend\\Common\\AppErrorResponse .cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T07:04:31.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\DTO\\Users\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\Users\\UpdateUserRequest.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\DTO\\Users\\UpdateUserRequest.cs",
+              "RelativeToolTip": "Backend\\DTO\\Users\\UpdateUserRequest.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T01:56:35.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "BulkDeleteUserRequest.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\DTO\\Users\\BulkDeleteUserRequest.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\Users\\BulkDeleteUserRequest.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\DTO\\Users\\BulkDeleteUserRequest.cs",
+              "RelativeToolTip": "Backend\\DTO\\Users\\BulkDeleteUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:55:55.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "UserRegisterResult.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Data\\Domain\\Users\\Enum\\UserRegisterResult.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\Domain\\Users\\Enum\\UserRegisterResult.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Data\\Domain\\Users\\Enum\\UserRegisterResult.cs",
+              "RelativeToolTip": "Backend\\Data\\Domain\\Users\\Enum\\UserRegisterResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:09:45.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Data\\Domain\\Users\\Enum\\Gender.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\Domain\\Users\\Enum\\Gender.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Data\\Domain\\Users\\Enum\\Gender.cs",
+              "RelativeToolTip": "Backend\\Data\\Domain\\Users\\Enum\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T02:27:08.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "DeleteUserResult.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Data\\Domain\\Users\\Enum\\DeleteUserResult.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\Domain\\Users\\Enum\\DeleteUserResult.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Data\\Domain\\Users\\Enum\\DeleteUserResult.cs",
+              "RelativeToolTip": "Backend\\Data\\Domain\\Users\\Enum\\DeleteUserResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:44:54.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "UesrController.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Area\\Admin\\Controller\\UesrController.cs",
+              "RelativeDocumentMoniker": "Backend\\Area\\Admin\\Controller\\UesrController.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Area\\Admin\\Controller\\UesrController.cs",
+              "RelativeToolTip": "Backend\\Area\\Admin\\Controller\\UesrController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:25:04.578Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\DTO\\Identity\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Backend\\DTO\\Identity\\LoginRequest.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\DTO\\Identity\\LoginRequest.cs",
+              "RelativeToolTip": "Backend\\DTO\\Identity\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T02:56:21.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "UserLoginResult.cs",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Data\\Domain\\Users\\Enum\\UserLoginResult.cs",
+              "RelativeDocumentMoniker": "Backend\\Data\\Domain\\Users\\Enum\\UserLoginResult.cs",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Data\\Domain\\Users\\Enum\\UserLoginResult.cs",
+              "RelativeToolTip": "Backend\\Data\\Domain\\Users\\Enum\\UserLoginResult.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:01:39.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Backend.http",
+              "DocumentMoniker": "F:\\DoAn\\Backend\\Backend\\Backend.http",
+              "RelativeDocumentMoniker": "Backend\\Backend.http",
+              "ToolTip": "F:\\DoAn\\Backend\\Backend\\Backend.http",
+              "RelativeToolTip": "Backend\\Backend.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-05-27T10:25:17.55Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
